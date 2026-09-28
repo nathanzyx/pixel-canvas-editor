@@ -94,7 +94,7 @@ into JSON format for the purpose of saving canvas data to the API when the canva
 ***
 ## Contributions
 
-**Nathan Tandory: (40%)**
+**Nathan Tandory:**
 - *Back-End:*
   - CanvasApplication.java
   - CanvasCheckResource.java
@@ -111,7 +111,7 @@ into JSON format for the purpose of saving canvas data to the API when the canva
 - *Other:*
   - README.md
 
-**Ebrahim Shaikh: (40%)**
+**Ebrahim Shaikh:**
 - *Front-End:*
   - canvas.html
   - index.html
@@ -119,7 +119,7 @@ into JSON format for the purpose of saving canvas data to the API when the canva
   - about.html
   - style.css
 
-**Sanjith Krishnamoorthy: (20%)**
+**Sanjith Krishnamoorthy:**
 - *Front-End:*
   - style.css
   - index.html
